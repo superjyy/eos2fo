@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to EOS2FO
 
-You can use the [editor on GitHub](https://github.com/superjyy/eos2fo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+首先庆祝FIBOS上线，可以直接使用JavaScript来做开发，相比EOS目前只能使用C++来开发DAPP，门槛降低了几个数量级，对开发者来说是非常友好了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+由于目前官方尚未发布FIBOS平台币FO的钱包，目前大多是开发者在进场兑换FO。 因而做了一个方便普通用户，可以直接使用EOS来购买FO币及FIBOS平台RAM的。具体的操作见下面
+### FO账户名与EOS账户名规则类似 FO公钥地址以FO开头，区别与EOS开头，后面部分规则是一样的
 
-### Markdown
+## 第一步  创建FIBOS平台帐号
+### 方法1 官方发布了一个免费注册帐号的接口，但有种种限制  [官方接口](https://fibos.io/docs/guide/advanced/createaccount.md.html) 
+### 方法2 使用任意钱包，转账 0.1 个以上的EOS（依EOS与FO兑换比例，及内存价格不同可能会有所浮动，扣掉创建账户费用大概2个FO左右，其他剩余的FO在您创建的账户中）到 eos2foeos2fo 这个地址，并将你想要的12位FO账户名和你的公钥地址填入备注信息中即可（FO账户名和你的公钥地址需用减号符 – 隔开）
+    备注的例子 fooooooooooo-FO5hY1YDZAcuGNAmhaWUY2EhxpcrA2UQYcwUvbJDPScoaatbdL4r
+    注意：FO的账户名只能由12345abcdefghijklmnopqrstuvwxyz字符组成，目前只可以12位
+        FO的公钥以FO开头，可以把EOS账户的公钥的EOS替换为FO来使用，私钥是相同的
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 第二步  EOS兑换FO币
+### 方法 使用任意钱包，转账 0.1 个以上的EOS（依EOS与FO兑换比例可能会有所浮动）到 eos2foeos2fo 这个地址，并将你的12位FO账户名填入备注信息中即可
+    备注的例子 fooooooooooo
+    注意：打入的EOS将全部兑换为FO币，并打入您备注的FO账户中
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superjyy/eos2fo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 另外 EOS直接购买FIBOS内存RAM
+### 方法 使用任意钱包，转账 0.1 个以上的EOS（依EOS与FO兑换比例，及内存价格不同可能会有所浮动）到 eos2foeos2fo 这个地址，并将你的12位FO账户名加buyram填入备注信息中即可 （FO账户名和buyram需用减号符 – 隔开）
+    备注的例子 fooooooooooo-buyram
+    注意：打入的EOS将全部兑换为FO币，然后会全部购买RAM到您备注的FO账户中
+    
+    
+###欢迎到电报群讨论聊天
+https://t.me/eos2fo
