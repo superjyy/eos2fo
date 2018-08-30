@@ -14,7 +14,7 @@
 ### 有一定基础的可以直接看着
     1. 创建:FO帐号名字加空格(或-)加公钥作为备注发送0.01个EOS到eos2foeos2fo这个EOS帐号，创建帐号大概花费0.003个EOS，剩eos自动买成FO
     2. 买FO币：FO帐号名字作为备注发送EOS到eos2foeos2fo这个EOS帐号，所有eos自动买成FO到备注的FO帐号
-    3. 买RAM:FO帐号名字加空格加buyram作为备注发送EOS到eos2foeos2fo这个EOS帐号，所有eos自动买成FO到备注的FO帐号
+    3. 买RAM:FO帐号名字加空格加buyram作为备注发送EOS到eos2foeos2fo这个EOS帐号，所有eos自动买成RAM到备注的FO帐号
        创建帐号备注样式：fooooooooooo-FO5hY1YDZAcuGNAmhaWUY2EhxpcrA2UQYcwUvbJDPScoaatbdL4r
        买FO币备注样式：fooooooooooo
        买RAM备注样式：fooooooooooo-buyram 
