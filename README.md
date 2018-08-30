@@ -29,8 +29,6 @@
     如果帐号和公钥格式不正确，或者转账金额小于0.01EOS，转账不会成功，多数钱包只会提示内存cpu资源不足，请注意检查
     如有其他问题可加微信biteyebot进群
 
-### 查看链上成功记录
-    [https://eosflare.io/account/eos2foeos2fo](https://eosflare.io/account/eos2foeos2fo) 
+### 查看链上成功记录   [https://eosflare.io/account/eos2foeos2fo](https://eosflare.io/account/eos2foeos2fo) 
     
-### 欢迎到电报群讨论聊天
-    [https://t.me/eos2fo](https://t.me/eos2fo)
+### 欢迎到电报群讨论聊天   [https://t.me/eos2fo](https://t.me/eos2fo)
