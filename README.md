@@ -1,4 +1,4 @@
-# Welcome to EOS2FO
+# EOS2FO 用EOS钱包直接购买FO
 
 首先庆祝FIBOS上线，可以直接使用JavaScript来做开发，相比EOS目前只能使用C++来开发DAPP，门槛降低了几个数量级，对开发者来说是非常友好了。
 
@@ -22,7 +22,14 @@
 ### 方法 使用任意钱包，转账 0.01 个以上的EOS（依EOS与FO兑换比例，及内存价格不同可能会有所浮动）到 eos2foeos2fo 这个地址，并将你的12位FO账户名加buyram填入备注信息中即可 （FO账户名和buyram需用减号符 – 隔开）
     备注的例子 fooooooooooo-buyram
     注意：打入的EOS将全部兑换为FO币，然后会全部购买RAM到您备注的FO账户中
+ 
+### 说明
+    从转账到购买FO成功需要1分钟左右,目前FO网络还在初期，请尽量不要大额购买
+    FO兑换为EOS需要您自己操作，因为FO账户控制权是在您自己手中的
+    如果帐号和公钥格式不正确，或者转账金额小于0.01EOS，转账不会成功，多数钱包只会提示内存cpu资源不足，请注意检查
+    如有其他问题可加微信biteyebot进群
     
+ 
     
-###欢迎到电报群讨论聊天
-[https://t.me/eos2fo](https://t.me/eos2fo)
+### 欢迎到电报群讨论聊天
+    [https://t.me/eos2fo](https://t.me/eos2fo)
