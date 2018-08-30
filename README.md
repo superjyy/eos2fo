@@ -5,8 +5,12 @@
 由于目前官方尚未发布FIBOS平台币FO的钱包，目前大多是开发者在进场兑换FO。 因而做了一个方便普通用户，可以直接使用EOS来购买FO币及FIBOS平台RAM的。具体的操作见下面
 
 ### 有一定基础的可以直接看着
-    1. 创建:FO帐号名字加空格加公钥作为备注发送0.01个EOS到eos2foeos2fo这个EOS帐号，用这个创建帐号大概花费0.003个EOS，剩下的eos自动买成FO
+    1. 创建:FO帐号名字加空格(或-)加公钥作为备注发送0.01个EOS到eos2foeos2fo这个EOS帐号，创建帐号大概花费0.003个EOS，剩eos自动买成FO
     2. 买FO币：FO帐号名字作为备注发送EOS到eos2foeos2fo这个EOS帐号，所有eos自动买成FO到备注的FO帐号
+    3. 买RAM:FO帐号名字加空格加buyram作为备注发送EOS到eos2foeos2fo这个EOS帐号，所有eos自动买成FO到备注的FO帐号
+       创建帐号备注样式：fooooooooooo-FO5hY1YDZAcuGNAmhaWUY2EhxpcrA2UQYcwUvbJDPScoaatbdL4r
+       买FO币备注样式：fooooooooooo
+       买RAM备注样式：fooooooooooo-buyram 
 
 ### FO账户名与EOS账户名规则类似 FO公钥地址以FO开头，区别与EOS开头，后面部分规则是一样的
 
