@@ -46,6 +46,7 @@
     FO兑换为EOS需要您自己操作，因为FO账户控制权是在您自己手中的
     如果帐号和公钥格式不正确，或者转账金额小于0.01EOS，转账不会成功，多数钱包只会提示内存cpu资源不足，请注意检查
     如有其他问题可加微信biteyebot进群
+    此次更新后余额我们会留1%作为开发维护费用，感谢支持。
 
 ### 查看链上成功记录   [https://eosflare.io/account/eos2foeos2fo](https://eosflare.io/account/eos2foeos2fo) 
     
