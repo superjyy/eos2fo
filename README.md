@@ -18,6 +18,15 @@
        创建帐号备注样式：fooooooooooo-FO5hY1YDZAcuGNAmhaWUY2EhxpcrA2UQYcwUvbJDPScoaatbdL4r
        买FO币备注样式：fooooooooooo
        买RAM备注样式：fooooooooooo-buyram 
+     
+     
+    use your EOS wallet to send EOS to eos2foeos2fo with below memo     
+    1. create account memo:fooooooooooo-FO5hY1YDZAcuGNAmhaWUY2EhxpcrA2UQYcwUvbJDPScoaatbdL4r
+    2. buy FO memo: fooooooooooo
+    3. buy RAM memo:fooooooooooo-buyram 
+    fooooooooooo is the account you want to create in FIBOS or you want to buy FO or RAM for 
+
+
 
 ### FO账户名与EOS账户名规则类似 FO公钥地址以FO开头，区别与EOS开头，后面部分规则是一样的
 
