@@ -48,7 +48,7 @@
 ## 另外 EOS直接购买FIBOS内存RAM
 ### 方法 使用任意钱包，转账 0.01 个以上的EOS（依EOS与FO兑换比例，及内存价格不同可能会有所浮动）到 eos2foeos2fo 这个地址，并将你的12位FO账户名加buyram填入备注信息中即可 （FO账户名和buyram需用减号符 – 隔开）
     备注的例子 fooooooooooo-buyram
-    注意：打入的EOS将全部兑换为FO币，然后会全部购买RAM到您备注的FO账户中,确保备注的FO账户是您的账户
+    注意：打入的EOS将全部兑换为FO币，然后会全部购买RAM到您备注的FO账户中,确保备注的FO账户是您的账户    
  
 ### 说明
     从转账到购买FO成功需要1分钟左右,目前FO网络还在初期，请尽量不要大额购买
@@ -60,3 +60,5 @@
 ### 查看链上成功记录   [https://eosflare.io/account/eos2foeos2fo](https://eosflare.io/account/eos2foeos2fo) 
     
 ### 欢迎到电报群讨论聊天   [https://t.me/eos2fo](https://t.me/eos2fo)
+### 微信群如满请加微信号 biteyebot
+![微信群二维码](wechatqc.jpeg)
